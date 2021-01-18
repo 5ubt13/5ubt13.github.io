@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Advantages of having an encrypted email"
 description: "Encryption, Zero-Access, Data Centers explained and personal thoughts"
 author: 0x5ubt13
