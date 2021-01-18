@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "TryHackMe - LazyAdmin (Easy)"
 description: "Easy Linux machine to practice your skills"
 author: 0x5ubt13
