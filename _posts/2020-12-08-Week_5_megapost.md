@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Week 5 Megapost - Implementing security measures to protect corporate data"
 description: "Hardware security protection, Firewalls, Data breach mitigation and Access Control Lists"
 author: 0x5ubt13
