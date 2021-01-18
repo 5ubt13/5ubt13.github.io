@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Identity theft. Consequences of medical identity theft and other data breaches"
 description: "Description of identity theft and its consequences for both individuals and companies"
 author: 0x5ubt13
