@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "TryHackMe - Inclusion (Easy)"
 description: "A beginner level LFI challenge"
 author: 0x5ubt13
