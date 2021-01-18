@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Top 5 Reasons why Data Breaches Happen"
 description: "Unpatched vulns, human errors, malware... All covered in here!"
 author: "0x5ubt13"
